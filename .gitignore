@@ -1,0 +1,18 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Local data: SYNERGY abstracts may not be republished as plaintext
+data/
+results/
+synergy_cache.sqlite
+
+# Secrets
+.env
